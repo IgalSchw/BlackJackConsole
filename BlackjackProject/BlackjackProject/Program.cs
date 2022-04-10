@@ -5,6 +5,7 @@ namespace BlackjackProject
 {
     class Program
     {
+        // black jack start
         static void Main(string[] args)
         {
             Console.OutputEncoding = System.Text.Encoding.UTF8;
